@@ -6,6 +6,13 @@ We are conducting an experiment studying the PD-L1 protien , which cancer cells 
  KD-knockdown : the samples depleted of PD-L1 protein  
 
 
-                          Analysis of Results
+                          Digital tools used:
+
+
+For this process, we used the SciPy and Pandas libraries with Python.
+
+First, we read the file and identified the columns and rows contained within it.
+
+
 
 
